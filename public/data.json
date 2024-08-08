@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "title": "Men's Casual Shirt",
+      "price": 25,
+      "description": "A comfortable and stylish casual shirt made from breathable cotton.",
+      "category": "Men's Clothing",
+      "image": "https://i.postimg.cc/SNWk02bm/ssrco-slim-fit-t-shirt-flatlay-edbb3b-2ffb89aaee-front-wide-portrait-750x1000-bg-f8f8f8-u3.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Women's Summer Dress",
+      "price": 45,
+      "description": "A light and airy summer dress perfect for warm weather.",
+      "category": "Women's Clothing",
+      "image": "https://i.ibb.co/Fhf3DxQ/w-men.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Unisex Hoodie",
+      "price": 35,
+      "description": "A cozy and stylish hoodie suitable for all genders.",
+      "category": "Unisex Clothing",
+      "image": "https://i.ibb.co/G0td8MJ/jacket.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Kids' Graphic T-Shirt",
+      "price": 15,
+      "description": "A fun and colorful graphic t-shirt for kids.",
+      "category": "Kids' Clothing",
+      "image": "https://i.ibb.co/9sNxnCd/kids.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Men's Denim Jeans",
+      "price": 50,
+      "description": "Classic fit denim jeans with a modern twist.",
+      "category": "Men's Clothing",
+      "image": "https://i.ibb.co/TkqGvYG/denim.jpg"
+    }
+  ]
+  
